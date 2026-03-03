@@ -10,7 +10,7 @@ void input(){
     cin >> p;
     cout << "Masukan Lebar : " ;
     cin >> l;
-}
+} 
 
 float luaspersegi(){
     return p*l;
@@ -26,4 +26,5 @@ int main()
     output();
 
 }//selesai
+
 
