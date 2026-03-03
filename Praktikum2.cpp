@@ -28,4 +28,5 @@ int main()
     input();
     output();
     cout << "Hasil Penjumlahan = " << jumlah(5,6,9);
-}//selesai
+
+}//selesa
