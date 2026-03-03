@@ -30,4 +30,3 @@ int main()
     cout << "Hasil Penjumlahan = " << jumlah(5,6,9);
 
 }//selesai
-
