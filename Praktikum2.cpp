@@ -10,7 +10,7 @@ void input(){
     cin >> p;
     cout << "Masukan Lebar : " ;
     cin >> l;
-}
+} 
 
 float luaspersegi(float x, float y){
     return x*y;
@@ -30,3 +30,4 @@ int main()
     cout << "Hasil Penjumlahan = " << jumlah(5,6,9);
 
 }//selesai
+
